@@ -1,0 +1,14 @@
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\bin\Debug\mp3test.exe.config
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\bin\Debug\mp3test.exe
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\bin\Debug\mp3test.pdb
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.csprojResolveAssemblyReference.cache
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\MainWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\App.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test_MarkupCompile.cache
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test_MarkupCompile.lref
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\MainWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.g.resources
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.Properties.Resources.resources
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.csproj.GenerateResource.Cache
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.exe
+c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.pdb
