@@ -35,6 +35,7 @@ namespace mp3test
             MP3Player mp3 = new MP3Player();
             //设置要播放的文件   
             mp3.FilePath = "曼波左.mp3";
+            mp3.LeftRightVolume = 0x0000ffff;
             //播放   
             mp3.Play();
         }
@@ -44,6 +45,7 @@ namespace mp3test
             MP3Player mp3 = new MP3Player();
             //设置要播放的文件   
             mp3.FilePath = "曼波右.mp3";
+            mp3.LeftRightVolume = 0xffff0000;
             //播放   
             mp3.Play();
         }

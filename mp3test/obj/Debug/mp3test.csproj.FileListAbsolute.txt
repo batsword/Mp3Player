@@ -12,3 +12,17 @@ c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\m
 c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.csproj.GenerateResource.Cache
 c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.exe
 c:\users\14923\documents\visual studio 2015\Projects\mp3test\mp3test\obj\Debug\mp3test.pdb
+E:\zyj\git\mp3player\mp3test\bin\Debug\mp3test.exe.config
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.exe
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.pdb
+E:\zyj\git\mp3player\mp3test\bin\Debug\mp3test.exe
+E:\zyj\git\mp3player\mp3test\bin\Debug\mp3test.pdb
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.csprojResolveAssemblyReference.cache
+E:\zyj\git\mp3player\mp3test\obj\Debug\MainWindow.g.cs
+E:\zyj\git\mp3player\mp3test\obj\Debug\App.g.cs
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test_MarkupCompile.cache
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test_MarkupCompile.lref
+E:\zyj\git\mp3player\mp3test\obj\Debug\MainWindow.baml
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.g.resources
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.Properties.Resources.resources
+E:\zyj\git\mp3player\mp3test\obj\Debug\mp3test.csproj.GenerateResource.Cache
